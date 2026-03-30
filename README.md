@@ -54,7 +54,7 @@ The Tableau dashboard provides insights such as:
 
 ---
 
-## 📷 Dashboard Preview
+
 # 🚕 Uber Ride Data Analysis Dashboard
 
 ## 📌 Project Overview
@@ -108,7 +108,7 @@ The Tableau dashboard provides insights such as:
 - Analyzed booking trends to understand customer demand patterns over time  
 
 ---
-
+## 📷 Dashboard Preview
 
 ![Uber Dashboard](https://raw.githubusercontent.com/somnathdutta19032002-rgb/uber-ride-data-analysis/main/imges/uber%20dashboard.png)
 
