@@ -110,7 +110,9 @@ The Tableau dashboard provides insights such as:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+## 📷 Dashboard Preview
+
+![Uber Dashboard](https://raw.githubusercontent.com/somnathdutta19032002-rgb/uber-ride-data-analysis/main/imges/dashboard.png)
 
 ---
 
